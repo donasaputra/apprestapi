@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donasaputra/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "dona saputra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donasaputra/apprestapi/issues"
+  },
+  "homepage": "https://github.com/donasaputra/apprestapi#readme"
+}
